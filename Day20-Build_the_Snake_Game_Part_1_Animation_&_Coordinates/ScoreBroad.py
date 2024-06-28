@@ -1,0 +1,3 @@
+
+class ScoreBroad():
+    pass
