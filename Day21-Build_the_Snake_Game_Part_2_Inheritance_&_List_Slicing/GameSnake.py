@@ -12,7 +12,7 @@ screen.tracer(0)
 snake = Snake()
 
 food = Food()
-# TODO Create a scoreboard
+#  Create a scoreboard
 score_broad = ScoreBroad()
 # Control the snake
 screen.listen()
