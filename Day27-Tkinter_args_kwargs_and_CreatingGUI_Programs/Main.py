@@ -1,5 +1,4 @@
 import tkinter
-import turtle
 
 window = tkinter.Tk()
 window.title("My First GUI Program")
@@ -113,4 +112,3 @@ window.mainloop()
 # add(1)
 # add(1, 2)
 # PACK PLACE GRID
-
