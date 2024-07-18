@@ -1,0 +1,6 @@
+# write
+json.dump()
+# read
+json.load()
+# update
+json.update()
