@@ -1,1 +1,1 @@
-# **100 Days Coding Python**
+# **Mini Projects Python**
