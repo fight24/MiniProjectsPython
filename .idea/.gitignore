@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/**/Key_Api.py
+.venv/
+**/_pycache__/
