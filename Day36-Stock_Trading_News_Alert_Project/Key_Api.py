@@ -1,0 +1,11 @@
+from enum import Enum
+
+class Key_Api(Enum):
+    KEY_NEW= 'dac15f6d8adf487a9dfa9f80761f86b9'
+    KEY_STOCK = '7p_bYhrN_cE_vlCP9R1p0aFUZsv8d2kd'
+    KEY_RAPIDAPI = "c114ab54demsh0b24342ab5f3893p1cad85jsn9303cabb0f26"
+    KEY_ALPHA_VANTAGE = "SX6MQPUE90ON5GO8"
+    KEY_TWILIO = '9ee8fae20a23de2506c7766a6781e218'
+    ACC_ID = "AC74e6844e6b6900cd43d46176d7be03d6"
+    NUM_PHONE = '+13132419621'
+    MY_NUM = '+84343002474'
